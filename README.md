@@ -1,2 +1,3 @@
-# Software_Design
-Software Deisng Principles - Python
+# Software Design
+
+This repository is used to illustrate software design principles using Python3
